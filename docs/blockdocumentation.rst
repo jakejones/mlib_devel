@@ -94,6 +94,8 @@ Signal Processing Blocks
 
 :doc:`negedge <src/blockdocs/Negedge>`     (Negative Edge Detector)
 
+:doc:`oversampling_pfb_fir_real <src/blockdocs/Oversampling_pfb_fir_real>`     (Oversampling Polyphase FIR Filter)
+
 :doc:`partial_delay <src/blockdocs/Partial_delay>`     (Partial Delay)
 
 :doc:`pfb_fir_real <src/blockdocs/Pfb_fir_real>`       (Real-sampled Polyphase FIR Filter Frontend for PFB)
